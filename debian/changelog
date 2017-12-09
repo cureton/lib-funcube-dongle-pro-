@@ -1,8 +1,12 @@
-libfcdpp1 (0.0.2) UNRELEASED; urgency=medium
+libfcdpp1 (0.0.3) UNRELEASED; urgency=medium
 
+  [ David Cureton ]
   * Correct version of .SO files 
 
- -- root <root@black.dcureton.com>  Sat, 09 Dec 2017 16:37:04 +1100
+  [ cureton ]
+  * Bump version
+
+ -- David Cureton <david.cureton@dcureton.com>  Sat, 09 Dec 2017 16:37:04 +1100
 
 libfcdpp1 (0.0.1) unstable; urgency=medium
 
