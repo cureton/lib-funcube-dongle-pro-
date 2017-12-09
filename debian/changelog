@@ -1,3 +1,9 @@
+libfcdpp1 (0.0.2) UNRELEASED; urgency=medium
+
+  * Correct version of .SO files 
+
+ -- root <root@black.dcureton.com>  Sat, 09 Dec 2017 16:37:04 +1100
+
 libfcdpp1 (0.0.1) unstable; urgency=medium
 
   * Initial Release.
