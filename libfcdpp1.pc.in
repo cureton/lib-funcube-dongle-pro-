@@ -1,0 +1,11 @@
+prefix=@DEST_DIR@
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libfcdpp1
+Description: Library for controling the funcube dongle Pro+. Does not work on former FunCube Dongles
+Version: @LIBFCDPP1_VERSION@
+
+Libs: -L${libdir} 
+Cflags: -I${includedir}

@@ -1,14 +1,13 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: libfcdpp1
-Source: <url://example.com>
+Source: https://dcureton.com/libfcdpp1
 
-Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Files: all
+Copyright: 2018 David Cureton david.cureton@dcureton.com
 License: GPL-3.0+
 
-Files: debian/*
-Copyright: 2017 root <root@black.dcureton.com>
+Files: debian/all
+Copyright: 2017 root <david.cureton@dcureton.com>
 License: GPL-3.0+
 
 License: GPL-3.0+
@@ -28,7 +27,3 @@ License: GPL-3.0+
  On Debian systems, the complete text of the GNU General
  Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
 
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
-# Please avoid picking licenses with terms that are more restrictive than the
-# packaged work, as it may make Debian's contributions unacceptable upstream.
