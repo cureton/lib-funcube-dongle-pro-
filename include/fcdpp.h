@@ -41,7 +41,7 @@
 #endif
 
 #include <inttypes.h>
-#include "fcdhidcmd.h"
+#include "fcdpphidcmd.h"
 
 
 /** \brief FCD mode enumeration. */

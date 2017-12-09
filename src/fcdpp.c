@@ -28,9 +28,9 @@
     #include <stdlib.h>
 #endif
 #include <stdio.h>
-#include "hidapi.h"
-#include "fcdhidcmd.h"
-#include "fcd.h"
+#include <hidapi/hidapi.h>
+#include "fcdpphidcmd.h"
+#include "fcdpp.h"
 
 
 #define FALSE 0
